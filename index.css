@@ -41,6 +41,17 @@ div.container-fluid.six {
     text-align: center;
 }
 
+div.container-fluid.seven {
+    padding: 30px;
+    text-align: center;
+    background-color: lightpink;
+}
+
+div.container-fluid.eight {
+    padding: 20px;
+    text-align: center;
+}
+
 div.col-sm-3.firstcol {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -67,6 +78,11 @@ h2.fourheading {
     font-size: 45px;
     padding: 10px;
     color: mediumvioletred;
+}
+
+h2.fiveheading {
+    font-size: 45px;
+    padding: 10px;
 }
 
 h1 {
@@ -104,6 +120,22 @@ div.col-sm-6 img {
 
 div.col-sm-6 {
     padding: 0 30px 20px 40px;
+}
+
+div.col-sm-3.brandone {
+    padding: 10px;
+    text-align: center;
+}
+
+img.imgone {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+p.logo {
+    font-size: 20px;
+    padding: 10px;
 }
 
 ul li {
