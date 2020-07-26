@@ -1,7 +1,5 @@
 body {
     font-family: 'Itim', cursive;
-    /*font-family: 'Dancing Script', cursive;
-    font-family: 'Kelly Slab', cursive;*/
 }
 
 div.container-fluid.one {
@@ -14,10 +12,12 @@ div.container-fluid.one {
 div.container.two {
     text-align: center;
     padding: 20px 20px 50px 20px;
+    font-family: 'Courgette', cursive;
 }
 
 div.container-fluid.three {
-    background-color: lavender;
+	background: url("https://images.squarespace-cdn.com/content/v1/5a46a74c9f8dce429fa90fd8/1547683437111-UB2MCAUIKNZRXY554Y0D/ke17ZwdGBToddI8pDm48kOggE0Ch6pMGalwtLMqzsSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ufo5RWkg_J4of0jUNHaDHx6pZKBvpVYzidBWCapg0tuoMuEaB2HPGSYDV-11UTcW2g/background-2462431_1920.jpg?format=2500w");
+    /*background-color: lavender;*/
     padding: 20px;
     text-align: center;
 }
@@ -26,19 +26,29 @@ div.container-fluid.four {
     background-color: papayawhip;
     padding: 20px;
     text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    color: hotpink;
 }
 
 div.container-fluid.five {
-    background-color: mediumturquoise;
+	background: url("https://sandeshlive.com/wp-content/uploads/2019/09/lohloopnjcoojdan.png");
+	background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: mediumturquoise;*/
+    color: aqua;
     text-align: center;
     padding: 25px;
+    font-family: 'Roboto Slab', cursive;
 }
 
 div.container-fluid.six {
-    padding: 20px;
-    background-color: darkslategray;
+    padding: 10px;
+    padding-top: 10px;
+    /*background-color: darkslategray;*/
     color: white;
     text-align: center;
+    font-family: 'Bad Script', cursive;
 }
 
 div.container-fluid.seven {
@@ -48,8 +58,11 @@ div.container-fluid.seven {
 }
 
 div.container-fluid.eight {
+	background: url("https://www.ptpinc.com/wp-content/uploads/2015/12/support-banner.png");
     padding: 20px;
     text-align: center;
+    font-family: 'Lobster Two', cursive;
+    color: royalblue;
 }
 
 div.col-sm-3.firstcol {
@@ -71,7 +84,7 @@ h2.secondheading {
 h2.thirdheading {
     font-size: 45px;
     padding: 10px;
-    color: purple;
+    color: black;
 }
 
 h2.fourheading {
@@ -87,7 +100,7 @@ h2.fiveheading {
 
 h1 {
     font-size: 50px;
-    padding: 15px;
+    padding: 20px;
 }
 
 h4 {
@@ -107,11 +120,11 @@ p.secondp {
 
 h3.thirdp {
     padding-bottom: 20px;
+    padding-top: 10px;
 }
 
 i.fa-3x {
     padding: 10px;
-    color: hotpink;
 }
 
 div.col-sm-6 img {
@@ -143,8 +156,24 @@ ul li {
     padding: 10px;
 }
 
+i.groupone {
+	color: hotpink;
+}
+
+i.grouptwo {
+	color: purple;
+}
+
+i.groupthree {
+	color: mediumspringgreen;
+}
+
+i.groupfour {
+	
+}
+
 #mainNavbar {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     font-weight: 100;    
 }
 
@@ -160,7 +189,7 @@ ul li {
 
 #mainNavbar .navbar-brand {
     color: #EA1C2C;
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     font-family: 'Dancing Script', cursive;
     padding: 10px;
 }
@@ -180,3 +209,37 @@ ul li {
 }
 
 .dropdown:hover .dropdown-menu {display: block;}
+
+.mwl {
+font-family: 'Merienda', cursive;
+}
+
+.ks {
+font-family: 'Oregano', cursive;
+font-size:18px;
+}
+
+.ks a{
+text-transform: none !important;
+color: red;
+}
+
+span.end2 {
+	float: right;
+	padding-right: 15px;
+	padding-bottom: 10px;
+}
+
+span#endname {
+	color: red;
+}
+
+span.end1 {
+	font-family: 'Roboto Slab', serif;
+	padding-left: 15px;
+	padding-bottom: 10px;
+}
+
+ul.carousel-indicators li {
+	padding: 0px; 
+}
