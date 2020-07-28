@@ -134,6 +134,8 @@ div.col-sm-6.img-filter {
 
 div.col-sm-6 img {
 	padding-top: 20px;
+	height: 50%;
+	width: 50%;
 }
 
 div.col-sm-6 {
