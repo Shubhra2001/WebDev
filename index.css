@@ -45,6 +45,7 @@ div.container-fluid.five {
 div.container-fluid.six {
     padding: 10px;
     padding-top: 10px;
+    background: url("https://www.i6net.com/wp-content/uploads/2015/06/background-header-technology.jpg");
     /*background-color: darkslategray;*/
     color: white;
     text-align: center;
@@ -127,8 +128,12 @@ i.fa-3x {
     padding: 10px;
 }
 
+div.col-sm-6.img-filter {
+    text-align: center;
+}
+
 div.col-sm-6 img {
-    padding: 20px 0 10px 100px;
+	padding-top: 20px;
 }
 
 div.col-sm-6 {
@@ -174,13 +179,14 @@ i.groupfour {
 
 #mainNavbar {
     font-size: 1.0rem;
-    font-weight: 100;    
+    font-weight: 100;   
+    background-color: pink; 
 }
 
 #mainNavbar .nav-link {
     color: black;
     font-family: 'Kelly Slab', cursive;
-    padding: 15px
+    padding: 15px;
 }
 
 #mainNavbar .nav-link:hover {
@@ -191,7 +197,7 @@ i.groupfour {
     color: #EA1C2C;
     font-size: 3.5rem;
     font-family: 'Dancing Script', cursive;
-    padding: 10px;
+    padding-right: 10px;
 }
 
 .dropdown {
@@ -210,6 +216,8 @@ i.groupfour {
 
 .dropdown:hover .dropdown-menu {display: block;}
 
+/*@import url(//fonts.googleapis.com/css?family=Oregano|Merienda);*/
+
 .mwl {
 font-family: 'Merienda', cursive;
 }
@@ -227,7 +235,7 @@ color: red;
 span.end2 {
 	float: right;
 	padding-right: 15px;
-	padding-bottom: 10px;
+	/*padding-bottom: 10px;*/
 }
 
 span#endname {
@@ -237,7 +245,7 @@ span#endname {
 span.end1 {
 	font-family: 'Roboto Slab', serif;
 	padding-left: 15px;
-	padding-bottom: 10px;
+	/*padding-bottom: 10px;*/
 }
 
 ul.carousel-indicators li {
