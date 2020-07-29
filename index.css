@@ -232,12 +232,14 @@ font-size:18px;
 .ks a{
 text-transform: none !important;
 color: red;
+font-size: 15px;
 }
 
 span.end2 {
 	float: right;
 	padding-right: 50px;
 	/*padding-bottom: 10px;*/
+	font-size: 13px;
 }
 
 span#endname {
@@ -248,6 +250,7 @@ span.end1 {
 	font-family: 'Roboto Slab', serif;
 	padding-left: 15px;
 	/*padding-bottom: 10px;*/
+	font-size: 13px;
 }
 
 ul.carousel-indicators li {
