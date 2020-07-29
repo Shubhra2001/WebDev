@@ -16,7 +16,7 @@ div.container.two {
 }
 
 div.container-fluid.three {
-    background: url("https://images.squarespace-cdn.com/content/v1/5a46a74c9f8dce429fa90fd8/1547683437111-UB2MCAUIKNZRXY554Y0D/ke17ZwdGBToddI8pDm48kOggE0Ch6pMGalwtLMqzsSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ufo5RWkg_J4of0jUNHaDHx6pZKBvpVYzidBWCapg0tuoMuEaB2HPGSYDV-11UTcW2g/background-2462431_1920.jpg?format=2500w");
+	background: url("https://images.squarespace-cdn.com/content/v1/5a46a74c9f8dce429fa90fd8/1547683437111-UB2MCAUIKNZRXY554Y0D/ke17ZwdGBToddI8pDm48kOggE0Ch6pMGalwtLMqzsSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ufo5RWkg_J4of0jUNHaDHx6pZKBvpVYzidBWCapg0tuoMuEaB2HPGSYDV-11UTcW2g/background-2462431_1920.jpg?format=2500w");
     /*background-color: lavender;*/
     padding: 20px;
     text-align: center;
@@ -236,7 +236,7 @@ color: red;
 
 span.end2 {
 	float: right;
-	padding-right: 15px;
+	padding-right: 50px;
 	/*padding-bottom: 10px;*/
 }
 
